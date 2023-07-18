@@ -1,0 +1,18 @@
+body {
+    background-color: darkred;
+    padding: 20px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+#pageTitle {
+    text-align: center;
+}
+
+
